@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "69-696141_map-pointer-map-marker-icon.png.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
